@@ -1,9 +1,9 @@
 {
-  "name": "cordova-plugin-google-analytics",
-  "version": "1.7.5",
+  "name": "flyer299-cordova-plugin-google-analytics",
+  "version": "1.7.6",
   "description": "Google Universal Analytics Plugin",
   "cordova": {
-    "id": "cordova-plugin-google-analytics",
+    "id": "flyer299-cordova-plugin-google-analytics",
     "platforms": [
       "android",
       "ios"
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/danwilson/google-analytics-plugin.git"
+    "url": "https://github.com/flyer299/google-analytics-plugin.git"
   },
   "keywords": [
     "cordova",
@@ -22,8 +22,9 @@
     "analytics",
     "google",
     "universal",
-    "universalanalytics"
+    "universalanalytics",
+    "Flyer299"
   ],
-  "author": "Dan Wilson",
+  "author": "Dan Wilson, Ken VeArd",
   "license": "MIT"
 }

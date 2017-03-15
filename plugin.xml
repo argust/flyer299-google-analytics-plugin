@@ -7,7 +7,7 @@
   </engines>
   <name>Google Universal Analytics Plugin</name>
   <description>Simple tracking (screens/events) for Google Analytics SDK 3.14 (iOS), SDK 4.0 (Android), Browsers and WP8</description>
-  <author>Daniel C. Wilson</author>
+  <author>Daniel C. Wilson, Ken VeArd</author>
   <license>MIT License</license>
   <js-module src="www/analytics.js" name="UniversalAnalytics">
     <!-- 'analytics' is deprecated, but supported to ease the transition -->
