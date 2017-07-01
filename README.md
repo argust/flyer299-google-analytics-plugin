@@ -1,4 +1,6 @@
-google-analytics-plugin
+flyer299-google-analytics-plugin
+This is an unsupported fork of the google-analtitics-plugin.  It will not be updated, Maintained, etc.   It was required to get past a bug in a feature that my application wasn't using.  Use at your own risk.
+
 =======================
 [![npm](https://img.shields.io/npm/v/cordova-plugin-google-analytics.svg)](https://www.npmjs.com/package/cordova-plugin-google-analytics)
 [![npm](https://img.shields.io/npm/dt/cordova-plugin-google-analytics.svg?label=npm%20downloads)](https://www.npmjs.com/package/cordova-plugin-google-analytics)
