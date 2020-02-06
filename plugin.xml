@@ -48,7 +48,7 @@
     <framework src="libsqlite3.dylib" />
   </platform>
 
-  <platform name="android">
+  <!-- <platform name="android">
     <framework src="com.google.android.gms:play-services-analytics:$PLAY_SERVICES" />
     <preference name="PLAY_SERVICES" default="16.0.4"/>
     
@@ -77,7 +77,7 @@
       <service android:name="com.google.android.gms.analytics.CampaignTrackingService" android:enabled="true" android:exported="false"/>
     </config-file>
     <source-file src="android/UniversalAnalyticsPlugin.java" target-dir="src/com/danielcwilson/plugins/analytics" />
-  </platform>
+  </platform>-->
 
   <platform name="wp8">
     <config-file target="config.xml" parent="/*">
